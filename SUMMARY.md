@@ -1,6 +1,6 @@
 # Summary
 
-* [关于](README.md)
+* [简介](README.md)
 * [理论篇](zhishichapter_md.md)
    * [webview和webkit](webviewhe_webkit.md)
    * [从一份html模版说起](li_jie_viewport.md)

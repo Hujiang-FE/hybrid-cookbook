@@ -4,7 +4,7 @@
 * [理论篇](zhishichapter_md.md)
    * [webview和webkit](webviewhe_webkit.md)
    * [从一份html模版说起](li_jie_viewport.md)
-   * [屏幕适配大战](wu_li_xiang_su_he_luo_ji_xiang_su.md)
+   * [屏幕适配及布局大战](wu_li_xiang_su_he_luo_ji_xiang_su.md)
 * [填坑篇](tian_keng_pian.md)
 * [工具篇](gong_ju_pian.md)
 * [体验增强篇](ti_yan_zeng_qiang_pian.md)

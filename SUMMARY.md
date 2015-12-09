@@ -5,7 +5,6 @@
    * [webview和webkit](webviewhe_webkit.md)
    * [从一份html模版说起](li_jie_viewport.md)
    * [屏幕适配大战](wu_li_xiang_su_he_luo_ji_xiang_su.md)
-   * [Hybrid包管理机制及通信桥](hybridbao_guan_li_ji_zhi_ji_tong_xin_qiao.md)
 * [填坑篇](tian_keng_pian.md)
 * [工具篇](gong_ju_pian.md)
 * [体验增强篇](ti_yan_zeng_qiang_pian.md)
@@ -15,5 +14,6 @@
    * [js的妙用](jsde_miao_yong.md)
    * [webkit私有属性](webkitsi_you_shu_xing.md)
 * 框架篇
+* [Hybrid包管理机制及通信桥](hybridbao_guan_li_ji_zhi_ji_tong_xin_qiao.md)
 * 测试篇
 

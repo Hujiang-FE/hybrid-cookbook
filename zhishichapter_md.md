@@ -94,7 +94,7 @@ Hybrid架构是移动互联网时代，产品高速迭代要求下的产物。�
 Hybrid实现的几种方案
 =======
 
-webapp，
+Webapp，
 
 Hybrid的缺点
 ======

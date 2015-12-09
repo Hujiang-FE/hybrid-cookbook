@@ -7,7 +7,7 @@
    * [屏幕适配大战](wu_li_xiang_su_he_luo_ji_xiang_su.md)
    * [Hybrid包管理机制及通信桥](hybridbao_guan_li_ji_zhi_ji_tong_xin_qiao.md)
 * [填坑篇](tian_keng_pian.md)
-* 工具篇
+* [工具篇](gong_ju_pian.md)
 * [体验增强篇](ti_yan_zeng_qiang_pian.md)
    * 让动画更流畅
    * 字体的应用

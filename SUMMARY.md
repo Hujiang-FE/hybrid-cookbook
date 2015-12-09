@@ -15,6 +15,7 @@
    * [webkit私有属性](webkitsi_you_shu_xing.md)
 * [框架篇](kuang_jia_pian.md)
    * Hybrid包管理机制
+   * jsBridge
 * [Hybrid包管理机制及通信桥](hybridbao_guan_li_ji_zhi_ji_tong_xin_qiao.md)
 * 测试篇
 

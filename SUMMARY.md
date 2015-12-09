@@ -10,7 +10,7 @@
 * [工具篇](gong_ju_pian.md)
 * [体验增强篇](ti_yan_zeng_qiang_pian.md)
    * [让动画更流畅](rang_dong_hua_geng_liu_chang.md)
-   * 字体的应用
+   * [字体的应用](zi_ti_de_ying_yong.md)
    * 性能优化
    * js的妙用
 * 框架篇

@@ -14,3 +14,14 @@
 </html>
 ```
 
+Emmet CheetSheets
+========
+
+```javascript
+meta:vp
+```
+
+viewport
+========
+
+viewport是视图，视窗的意思，它又分为可视视窗和布局视窗

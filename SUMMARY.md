@@ -12,7 +12,7 @@
    * [让动画更流畅](rang_dong_hua_geng_liu_chang.md)
    * [字体的应用](zi_ti_de_ying_yong.md)
    * [性能优化](xing_neng_you_hua.md)
-   * js的妙用
+   * [js的妙用](jsde_miao_yong.md)
 * 框架篇
 * 测试篇
 

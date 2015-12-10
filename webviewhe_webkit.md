@@ -45,7 +45,7 @@ webkit的主要认识误区
 
 **误区一：单纯简单地认为移动端的webkit在安卓侧就是chrome for android；ios侧就是safari**
 
-**误区解释：这是一个严重的误区，下面将详细阐述其区别**
+**误区解释：这是一个严重的误区，下文阐述其区别**
 
 
 WebView For Android
